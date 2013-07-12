@@ -1,4 +1,4 @@
-/**
+/** 
  *  html:
 	<form>
 	<input id=test check-trigger="blur focus change" check-len="1-20" check-reg="\\d+" check-type="num" check-message="wrong" check-ok="ok" />
